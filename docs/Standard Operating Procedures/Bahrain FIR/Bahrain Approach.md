@@ -144,13 +144,12 @@ Once you have confirmed their passing altitude against the altitude showing on r
 #### 3.2.2 Climb Restrictions 
 Various flights have climb restrictions due to various operational factors. These restrictions must be upheld at all times. 
 
-| **Destination** | **Maximum Authorised Climb from APP** | **Maximum Filed Level** |
-|:---------------:|:-------------------------------------:|:-----------------------:|
-|       OEDF      |                 6000ft                |          6000ft         |
-|       OT*       |                11000ft                |         11000ft         |
-|       OE**      |                 12000ft               |          Unlimited      |
-|       OM*       |                 FL170                 |          FL250          |
-|       OKKK      |                 FL170                 |          FL260          |
+| **Exit Point**          | **Maximum Authorised Climb from APP** |       **Notes**                                   |
+|:-----------------------:|:-------------------------------------:|:-------------------------------------------------:|
+|       NARMI (OE**)      |                12000ft                |          Capped to 6000ft if landing OEDF         |
+|       LUBET (OTDF)      |                11000ft                |                                                   |
+|       SODAK (OBBB)      |                FL170                  |                                                   |
+|       EGMOR (OBBB)      |                FL170                  |                                                   |
 
 
 !!!node "**Letter of Agreement (LOAs)**"
