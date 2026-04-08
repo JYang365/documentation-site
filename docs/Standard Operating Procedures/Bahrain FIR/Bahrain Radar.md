@@ -13,6 +13,8 @@ toc_max_heading_level: 6
 
 ---
 
+## Sub-Sectors
+
 <p align="center">
   <strong>SECTOR DIAGRAM</strong><br>
 </p>
@@ -32,10 +34,29 @@ toc_max_heading_level: 6
 
 ## Surrounding Airspaces
 
-
-**Bahrain ACC**
-
+<p align="center">
+  <strong>BAHRAIN ACC</strong><br>
+</p>
 ![Bahrain AIR](img/BahrainAIR.png#center)
+
+---
+
+## General Procedures
+
+### Airway Clearances
+
+In the Bahrain FIR, airway clearances **must** be given on initial contact.
+
+### Minimum Separation
+
+
+
+| **Traffic distance from Radar Head** |  **Minimum Lateral Separation** |
+|--------------------------------------|---------------------------------|
+|             > 150 NM                 |               10NM              |
+|             < 150 NM                 |               5NM               |
+
+---
 
 ## Initial Descents 
 
@@ -52,6 +73,8 @@ Bahrain Radar is responsible for initiating descents of arrivals to neighbouring
 | TOMSO        | FL310             | OBBB_2/1                | OMDB, OMDW, OMSJ, OMRK, OMFJ | Airway P559     |
 | ALKAN        | FL240             | OBBB_1                  | OBBI                         |                 |
 | OBROS        | FL160             | OBBB_1                  | OBBI                         |                 |
+
+---
 
 ## Enroute Holds
 
