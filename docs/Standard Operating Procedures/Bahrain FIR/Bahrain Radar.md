@@ -58,6 +58,9 @@ Aircraft operating in the Bahrain FIR, excluding the TMA and CTR, will be separa
 |             > 150 NM                 |               10NM              |
 |             < 150 NM                 |               5NM               |
 
+!!!node "LOAs"
+    When one aircraft is supersonic, the minimum lateral separation is **increased to 20 NM**.
+
 ---
 
 ## Initial Descents 
@@ -76,7 +79,8 @@ Bahrain Radar is responsible for initiating descents of arrivals to neighbouring
 | ALKAN        | FL240             | OBBB_1                  | OBBI                          |                 |
 | OBROS        | FL160             | OBBB_1                  | OBBI                          |                 |
 
-For traffic inbound into the OMAE or OTDF FIRs, please refer to our LOA with the Arabian vACC [here](https://docs.khaleejvacc.net/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/).
+!!!node "LOAs"
+    For traffic inbound into the OMAE or OTDF FIRs, please refer to our LOA with the Arabian vACC [here](https://docs.khaleejvacc.net/Published%20Documents/Letter%20of%20Agreements/Arabian%20Letter%20of%20Agreement/).
 
 ---
 
