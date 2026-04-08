@@ -4,8 +4,6 @@ toc_min_heading_level: 2
 toc_max_heading_level: 6
 ---
 
-## **Kuwait Approach [OKKK_APP]**
-
 ## Chapter 1. Position Overview
 **Kuwait Approach (APP)** is responsible for providing approach radar control services to aircraft departing, arriving or transiting the **Kuwait Terminal Maneuvering Area (TMA)**. It is also the responsibility of the approach controller to ensure aircraft are separated in accordance with the Standard Operating Procedures outlined in this document, ensure a safe and efficient flow of traffic in and out of the airports covered within the TMA.
 
