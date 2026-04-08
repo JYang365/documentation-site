@@ -4,8 +4,6 @@ toc_min_heading_level: 2
 toc_max_heading_level: 6
 ---
 
-## **Bahrain Approach [OBBI_APP]**
-
 ### Amendment History
 
 | **Revision** | **Effective Date** | **Notes**           |
