@@ -58,7 +58,7 @@ Aircraft operating in the Bahrain FIR, excluding the TMA and CTR, will be separa
 |             > 150 NM                 |               10NM              |
 |             < 150 NM                 |               5NM               |
 
-!!!node "LOAs"
+!!!node "Exceptions"
     When one aircraft is supersonic, the minimum lateral separation is **increased to 20 NM**.
 
 ---
