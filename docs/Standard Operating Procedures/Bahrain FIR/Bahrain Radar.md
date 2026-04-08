@@ -47,9 +47,11 @@ toc_max_heading_level: 6
 
 In the Bahrain FIR, airway clearances **must** be given on initial contact.
 
+> **ENR Controller:** _**"FDB738, Bahrain Radar, Identified. Cleared airway P559 NALPO."**_
+
 ### Minimum Separation
 
-
+Aircraft operating in the Bahrain FIR, excluding the TMA and CTR, will be separated by 1000ft vertically.
 
 | **Traffic distance from Radar Head** |  **Minimum Lateral Separation** |
 |--------------------------------------|---------------------------------|
