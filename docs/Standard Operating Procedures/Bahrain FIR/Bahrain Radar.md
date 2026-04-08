@@ -64,7 +64,7 @@ Aircraft operating in the Bahrain FIR, excluding the TMA and CTR, will be separa
 
 Bahrain Radar is responsible for initiating descents of arrivals to neighbouring FIRs, prominently the OMAE and OTDF FIRs. This must be done in accordance with the established Letters of Agreement and local procedures. This facilitates orderly sequencing by the receiving ACC into congested terminal manoeuvring areas such as Dubai International Airport. 
 
-| **Waypoint** | **Descent level** | **Responsible Sectors** |       **Destination*         | **Extra notes** |
+| **Waypoint** | **Descent level** | **Responsible Sectors** |       **Destination**         | **Extra notes** |
 |--------------|-------------------|-------------------------|------------------------------|-----------------|
 | KUMBO        | FL220             | OBBB_N/1                | OKKK                         |                 |
 | DEKTA        | FL290             | OBBB_3/N/1              | OTHH                         |                 |
