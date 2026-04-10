@@ -133,11 +133,11 @@ Upon initial contact with a departing aircraft after being handed over from the 
 If an aircraft does not report their passing altitude on initial contact it must be requested from the pilot in order to verify radar contact and cross-check that they are showing the correct altitude on radar. 
 This can be within a 300ft +/- range of their reported passing altitude. 
 
-> **APP Controller:** _**"GFA505, Reporting your passing altitude"**_
+> **APP Controller:** _**"GFA505, Report passing altitude"**_
 
 Once you have confirmed their passing altitude against the altitude showing on radar you can confirm they're identified on radar and proceed to clear them as necessary.
 
-> **APP Controller:** _**"GFA505, Identified passing altitude 1500ft, continue climb FL170, resume own navigation direct MEDMA"**_
+> **APP Controller:** _**"GFA505, Identified on departure, continue climb FL170, route direct MEDMA"**_
 
 #### 3.2.2 Climb Restrictions 
 Various flights have climb restrictions due to various operational factors. These restrictions must be upheld at all times. 
@@ -167,7 +167,7 @@ Aircraft that are flying on an assigned heading vs aircraft that are flying on t
 
 **Example for giving a direct to an Aircraft Flying an Assigned Heading:**
 
-> **"APP Controller:"** _**"GFA071, resume own navigation direct SODAK"**_ 
+> **"APP Controller:"** _**"GFA071, track direct SODAK"**_ 
 
 **Example for giving a direct to an Aircraft Flying their filed routing:**
 
@@ -262,7 +262,7 @@ Upon initial contact the **Approach Controller** should provide a pilot with the
 - **An altitude to which to descend to if necessary**
 - **Local Pressure at the Airfield of Arrival**
 
-> **APP Controller:** _**"DHX268, Identified, Cleared the ORDIG1 Arrival, ILS Approach Runway 30R, descend altitude 8000ft, QNH 1010"**_
+> **APP Controller:** _**"DHX268, Identified, Cleared ORDIG1 Arrival, ILS Approach Runway 30R, descend altitude 8000ft, QNH 1010"**_
 
 If the **ACC Controller** is online and they're arriving from the Bahrain En-Route Environment then Bahrain Radar will provide them with their expected **Standard Terminal Arrival Route (STAR)**. 
 However, the ACC Controller will only tell the aircraft to "expect" a particular STAR. It is still the responsibility of the **Approach Controller** to clear the aircraft onto a particular STAR. 
@@ -294,11 +294,11 @@ This should include the vertical limits, inbound holding courses, maximum holdin
 
 If it is required to put an aircraft in one of the above holds the following phraseology should be used. 
 
-> **APP Controller:** _**"GFA164, enter the published hold at OBSAS, descend altitude 8000ft, speed 230kts, expect 10 minute delay"**_
+> **APP Controller:** _**"GFA164, enter published hold at OBSAS, descend altitude 8000ft, speed 230kts, expect 10 minute delay"**_
 
 Aircraft will have published holds within their aircrafts AIRAC cycle uploaded into their FMC by standard. However, in the event they do not you will be required to provide the aircraft with the full requirements to carry out the hold procedure. 
 
-> **APP Controller:** _**"GFA164, enter the hold at OBSAS, inbound holding course 207°, descend altitude 8000ft, speed 230kts, right hand turns, you can expect 10 minute delay"**_
+> **APP Controller:** _**"GFA164, enter hold at OBSAS, inbound holding course 207°, descend altitude 8000ft, speed 230kts, right hand turns, you can expect 10 minute delay"**_
 
 When the situation within the **Bahrain Terminal Maneuvering Area (TMA)** has become managed and you can now accept aircraft for final approach you wil have to sequence aircraft appropriately from the hold. 
 If the aircraft is still on his **Standard Terminal Arrival Route (STAR)** you can issue him with a standard clearance. 
@@ -307,7 +307,7 @@ If the aircraft is still on his **Standard Terminal Arrival Route (STAR)** you c
 
 If the controller deems it necessary they can cancel the hold by issuing radar vectors for the approach, this can be done by doing the following: 
 
-> **APP Controller:** _**GFA164, cancel the hold, turn right heading 120°, descend altitude 4000ft, speed 210kts"**_
+> **APP Controller:** _**GFA164, cancel hold, turn right heading 120°, descend altitude 4000ft, speed 210kts"**_
 
 #### 3.2.4.1 Holding Altitudes  
 If placing aircraft in the hold they must always as per Section 3.1 remain vertically separated by 1000ft. When placing multiple aircraft into the same holding pattern they can not all hold at the same altitude so the **APP Controller** is responsible for ensuring each aircraft has its own block altitude within the holding pattern. 
@@ -358,7 +358,7 @@ The aircraft should be cleared to proceed direct to either the **Initial Approac
 
 Example: 
 
-> **APP Controller:** _**"DHX268, proceed direct LOVAL, descend altitude 2500ft, via LOVAL, you are cleared the RNP Approach RWY12L, report established on the final approach track, QNH1003."**_
+> **APP Controller:** _**"DHX268, proceed direct LOVAL, descend altitude 2500ft, via LOVAL, cleared RNP Approach RWY12L, report established on the final approach track, QNH1003."**_
 
 !!!node "Differences" 
     As the RNP is not a precision approach, aircraft should be told to report final instead of report established. 
@@ -371,15 +371,15 @@ You can also provide an aircraft with vectors to intercept the inbound radial fo
 
 ##### 3.2.6.3.1 Procedural VOR Approach Clearance 
 
-> **APP Controller:** _**"GFA013, via the BHR VOR you are cleared the procedural VOR/DME approach RWY12L, report on the outbound radial, descend altitude 2500ft, QNH 1003."**_
+> **APP Controller:** _**"GFA013, via the BHR VOR, cleared procedural VOR/DME approach RWY12L, report on outbound radial, descend altitude 2500ft, QNH 1003."**_
 
 Once the aircraft reaches the specified distance on the outbound radial they will begin their turn to intercept the inbound final approach radial. 
 
-> **APP Controller:** _**"GFA013, report established on the inbound radial RWY12L"**_
+> **APP Controller:** _**"GFA013, report established on inbound radial RWY12L"**_
 
 ##### 3.2.6.3.2 Vectors for VOR Approach Clearance
 
-> **APP Controller:** _**"GFA013, turn right heading 150 degrees, descend altitude 1500ft, you are cleared the VOR approach RWY12L, report established on the inbound radial, QNH1003."**_
+> **APP Controller:** _**"GFA013, turn right heading 150 degrees, descend altitude 1500ft, cleared VOR approach RWY12L, report established on the inbound radial, QNH1003."**_
 
 !!!node "Traffic Load"
     The APP Controller must not accept non-standard approach requests if the traffic situation in the TMA does not allow.
@@ -391,11 +391,11 @@ Visual Meteorological Conditions (VMC) conditions must exist for an aircraft to 
 
 The **APP Controller** can not issue a visual approach clearance, it must be requested from the pilot. 
 
-> **APP Controller:** _**"GFA771, report you have the airfield in sight?"**_ 
+> **APP Controller:** _**"GFA771, report airfield in sight"**_ 
 
 Once the aircraft has confirmed they have the airfield in sight the can then be issued with a visual approach clearance. 
 
-> **APP Controller:** _**"GFA771, cleared the visual approach RWY30R, QNH1003"**_ 
+> **APP Controller:** _**"GFA771, cleared visual approach RWY30R, QNH1003"**_ 
 
 Once they have acknowledged they are cleared for the visual approach they should be handed straight to the **TWR Controller**. If TWR is not online, the approach controller should tell the aircraft to report final. 
 
