@@ -117,11 +117,11 @@ Upon initial contact with a departing aircraft after being handed over from the 
 If an aircraft does not report their passing altitude on initial contact it must be requested from the pilot in order to verify radar contact and cross-check that they are showing the correct altitude on radar.
 This can be within a 300ft +/- range of their reported passing altitude.
 
-> **APP Controller:** _**"KAC505, reporting your passing altitude."**_
+> **APP Controller:** _**"KAC505, reporting passing altitude."**_
 
 Once you have confirmed their passing altitude against the altitude showing on radar you can confirm they're identified on radar and proceed to clear them as necessary.
 
-> **APP Controller:** _**"KAC505, identified, continue climb FL150, route direct SESRU."**_
+> **APP Controller:** _**"KAC505, Radar Contact, continue climb FL150, route direct SESRU."**_
 
 #### 3.2.2 Handing Aircraft Off
 Due to the location of Kuwait and direction of some flights not all aircraft will be handed off to the en-route controller as they will not enter their airspace.
@@ -153,7 +153,7 @@ Upon initial contact the **Approach Controller** should provide a pilot with the
 - **An altitude to which to descend to if necessary**
 - **Local Pressure at the Airfield of Arrival**
 
-> **APP Controller:** _**"DHX268, Identified, expect ILS Approach 33L, information A, QNH 1013."**_
+> **APP Controller:** _**"DHX268, Radar Contact, expect ILS Approach 33L, information A, QNH 1013."**_
 
 If the **ACC Controller** is online, and they're arriving from the Kuwait En-Route Environment then Kuwait Radar will provide them with their expected **Standard Terminal Arrival Route (STAR)**.
 
@@ -180,11 +180,11 @@ This should include the vertical limits, inbound holding courses, maximum holdin
 
 If it is required to put an aircraft in one of the above holds the following phraseology should be used.
 
-> **APP Controller:** _**"KAC164, enter the published hold at DEBTI, descend altitude 8000ft, expect 10 minute delay."**_
+> **APP Controller:** _**"KAC164, enter published hold at DEBTI, descend altitude 8000ft, expect 10 minute delay."**_
 
 Aircraft will have published holds within their aircraft AIRAC cycle uploaded into their FMC by standard. However, in the event they do not you will be required to provide the aircraft with the full requirements to carry out the hold procedure.
 
-> **APP Controller:** _**"KAC164, enter the hold at SESRU, inbound course 073°, descend altitude 8000ft, right hand turns, expect 10-minute delay"**_
+> **APP Controller:** _**"KAC164, enter hold at SESRU, inbound course 073°, descend altitude 8000ft, right hand turns, expect 10-minute delay"**_
 
 #### 3.2.4.1 Holding Altitudes
 If placing aircraft in the hold they must always as per Section 3.1 remain vertically separated by 1000ft. When placing multiple aircraft into the same holding pattern they can not all hold at the same altitude so the **APP Controller** is responsible for ensuring each aircraft has its own block altitude within the holding pattern.
