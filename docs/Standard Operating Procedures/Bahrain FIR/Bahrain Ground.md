@@ -51,7 +51,7 @@ In some cases you may have an inbound aircraft taxiing to a stand on the apron w
 
 Example:
 
-> **SMC Controller:** _**"GFA250, behind the Emirates Airbus A350 taxiing from your right to left, Stand 22, push and start is approved facing west on Taxiway Zulu, QNH 1022."**_
+> **SMC Controller:** _**"GFA250, behind Emirates Airbus A350 taxiing from right to left, Stand 22, push and start approved facing west on Taxiway Zulu, QNH 1022."**_
 
 #### 2.1.2 Simultaneous Pushback Operations
 **Simultaneous Pushback Operations** can be conducted at Bahrain. The aim of this process is that once both aircraft have completed their pushback procedures, they will be be in position on the active taxiway with at least one stand between them. 
@@ -67,7 +67,7 @@ Aircraft will be taxied out from their respective apron at the most convenient p
 
 Example:
 
-> **SMC Controller:** _**"GFA500, taxi to holding point A9 runway 30R, via Zulu, Tango and Alpha."**_
+> **SMC Controller:** _**"GFA500, taxi holding point A9 runway 30R, via Zulu, Tango and Alpha."**_
 
 !!!node "Be Helpful"
     Some pilots may require assistance taxing around the airfield, you can provide them with progressive taxi instructions if needed. 
@@ -75,7 +75,7 @@ Example:
 ##### 2.2.1.2 RWY12L Departure Configuration
 Aircraft will be taxied out from their respective apron at the most convenient point to enter taxiway 'A' to depart full length from holding point A1 for RWY12L. If requested by the pilot and traffic permitting intersection departures can be offered to reduce taxi times. 
 
-> **SMC Controller:** _**"GFA500, taxi to holding point A1 runway 12L, via Zulu, Tango and Alpha."**_
+> **SMC Controller:** _**"GFA500, taxi holding point A1 runway 12L, via Zulu, Tango and Alpha."**_
 
 ### 2.2.2 Intersection Departures
 Intersection Departures can be utilised when the pilot requests it specifically. The SMC Controller is not allowed to instruct an intersection departure to a pilot without it being requested. 
@@ -89,7 +89,7 @@ Intersection Departures can be utilised when the pilot requests it specifically.
 Aircraft parked on either the Northern Apron or the Texel Apron on the North Side of the airport will be expected to be taxied to B1 or B2, then transferred to the TWR controller for runway crossing. 
 Once they have successfully been taxied from the North Side to the South Side and crossed the active runway they will be handed back to the SMC Controller to be taxied to the active runway for departure.
 
-> **SMC Controller:** _**"CNV1222, taxi to holding point B2 RWY30R for crossing."**_
+> **SMC Controller:** _**"CNV1222, taxi holding point B2 RWY30R for crossing."**_
 
 Once the aircraft has reached the designated holding point for runway crossing they will be handed over to the **TWR Controller** who will then slot them in appropriately to cross the runway
 
