@@ -49,7 +49,7 @@ The GMP Controller **must** obtain a full and correct read back of the departure
 
 ***Challenge Example***
 
-> **GMP Controller:** _**"GFA178, Negative. Cleared to Dubai via the N697 SODAK P559 NALPO, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
+> **GMP Controller:** _**"GFA178, Negative. Cleared to Dubai via N697 SODAK P559 NALPO, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
 
 !!!node "Be patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!
