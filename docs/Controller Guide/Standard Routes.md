@@ -18,12 +18,12 @@ Controllers may find the table below with the standard routes departing from **O
 
 ### OEJD FIR
 
-| **Destination** | **Bahrain Standard Route**                    | **Kuwait Standard Route**                 |
-|-----------------|-----------------------------------------------|-------------------------------------------|
-| OEDF            | BHR B457 NARMI                                | ASVIR H741 PUSRA                          |
-| OERK            | BHR B457 NARMI N112 GETOT Q212 KIA            | KFR G782 ESRAT                            |
-| OEJN            | BHR B457 NARMI N112 GETOT Q212 KIA G782 VEMEM | KFR P517 KSB B417 GAS G674 PMA B544 NOMDA |
-| OEMA            | BHR NARMI N697 TAYMA GAS G674 EMURI           | KFR NIDAP L550 BOSID B417 GAS G674 EMURI  |
+| **Destination** | **Bahrain Standard Route**                    | **Kuwait Standard Route**                   |
+|-----------------|-----------------------------------------------|---------------------------------------------|
+| OEDF            | BHR B457 NARMI                                | ASVIR H741 PUSRA                            |
+| OERK            | BHR B457 NARMI N112 GETOT Q212 MEMGO          | KATOD Y517 ESRAT                            |
+| OEJN            | BHR B457 NARMI N112 GETOT Q212 KSA M309 VEMEM | DEKOB P517 KSB B417 GAS G674 PMA B544 NOMDA |
+| OEMA            | BHR B457 NARMI N697 TAYMA GAS G674 EMURI      | DEKOB P517 KSB B417 GAS G674 EMURI          |
 
 ---
 
