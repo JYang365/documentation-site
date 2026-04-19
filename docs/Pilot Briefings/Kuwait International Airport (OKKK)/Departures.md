@@ -1,5 +1,5 @@
 ---
-title: Departing into Kuwait Intl.
+title: Departing Kuwait Intl.
 ---
 
 # Pilot Briefing
@@ -24,27 +24,61 @@ The controller will then proceed to give you a clearance which must be read back
 
 Example:
 
-> **Controller:** _**"JZR741, Good Afternoon, cleared to Giza via the KFR4F, climb initially altitude 4000ft, Squawk 4414"**_
+> **Controller:** _**"JZR741, Good Afternoon, cleared to Giza via DEKOB1K, climb 4000ft, Squawk 4414"**_
 
 Below you can find the Standard Instrument Departures (SIDs) from OKKK and their initial altitudes.
 
-| **Runway** | **Identifier** | **Initial Altitude** |
-|:----------:|:--------------:|:--------------------:|
-|   33L/33R  |     ALVAX4F    |        4000ft        |
-|   33L/33R  |     ASVIR4F    |        4000ft        |
-|   33L/33R  |     BOXIK4F    |        4000ft        |
-|   33L/33R  |      KFR4F     |        4000ft        |
-|   33L/33R  |     RALKA4F    |        4000ft        |
-|   33L/33R  |     SESRU4F    |        4000ft        |
+**16:**
 
-| **Runway** | **Identifier** | **Initial Altitude** |
-|:----------:|:--------------:|:--------------------:|
-|   15L/15R  |     ALVAX4E    |        4000ft        |
-|   15L/15R  |     ASVIR4E    |        4000ft        |
-|   15L/15R  |     BOXIK4E    |        4000ft        |
-|   15L/15R  |      KFR4E     |        4000ft        |
-|   15L/15R  |     RALKA4E    |        4000ft        |
-|   15L/15R  |     SESRU4E    |        4000ft        |
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 1K             | 16                   |
+| ASVIR   | 1K             | 16                   |
+| BOXIK   | 1K             | 16                   |
+| RALKA   | 1K             | 16                   |
+| SESRU   | 1K             | 16                   |
+| DEKOB   | 1K             | 16                   |
+| KATOD   | 1K             | 16                   |
+| NIDAP   | 1K             | 16                   |
+
+**15R**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 5E             | 15R                  |
+| ASVIR   | 5E             | 15R                  |
+| BOXIK   | 5E             | 15R                  |
+| RALKA   | 5E             | 15R                  |
+| SESRU   | 5E             | 15R                  |
+| DEKOB   | 1L             | 15R                  |
+| KATOD   | 1L             | 15R                  |
+| NIDAP   | 1L             | 15R                  |
+
+**33L:**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 5F             | 33L                  |
+| ASVIR   | 5F             | 33L                  |
+| BOXIK   | 5F             | 33L                  |
+| TASMI   | 5F             | 33L                  |
+| SESRU   | 5F             | 33L                  |
+| DEKOB   | 1J             | 33L                  |
+| KATOD   | 1J             | 33L                  |
+| NIDAP   | 1J             | 33L                  |
+
+**34:**
+
+| **SID** | **Designator** | **Departure Runway** |
+|---------|----------------|----------------------|
+| ALVAX   | 1I             | 34                   |
+| ASVIR   | 1I             | 34                   |
+| BOXIK   | 1I             | 34                   |
+| TASMI   | 1I             | 34                   |
+| SESRU   | 1I             | 34                   |
+| DEKOB   | 1I             | 34                   |
+| KATOD   | 1I             | 34                   |
+| NIDAP   | 1I             | 34                   |
 
 !!!node "D-ATIS"
 Again, it must be noted it is the pilots responsibility to ensure they have correctly listened to the D-ATIS so they know the active runways at their departure airport.
