@@ -46,7 +46,7 @@ At **Bahrain International Airport (OBBI)**, the preferential runway is 30R for 
 If the **TWR Controller** deems it necessary to change the active runway due to a change in wind direction this should be coordinated with all controllers above and below as this changes departure and arrival clearances. 
 This should not be done suddenly, it must be carefully coordinated. The **Approach Controller** and **Tower Controller** will carefully select which aircraft is the last aircraft to land prior to the runway change.
 
-This process is the same with the **DLV or SMC Controller** if an aircraft is already taxing to the active runway prior to runway change it may be less disruptive to allow the aircraft to depart if they can accept the tailwind. 
+This process is the same with the **DLV or GMC Controller** if an aircraft is already taxing to the active runway prior to runway change it may be less disruptive to allow the aircraft to depart if they can accept the tailwind. 
 Aircraft can be re-issued with a departure clearance. 
 
 ### 3.2 Line Up Procedures 
@@ -182,11 +182,11 @@ In order to ensure minimum runway occupancy time pilots are expected to vacate t
     - Aircraft landing on RWY12L shall not vacate the runway at A4.
 
 ### 3.4.3 Vacating Traffic
-Traffic vacating the active runway shall not be immediately transferred to the SMC Controller, it is the responsibility of the TWR Controller to issue an initial taxi clearance onto taxiway A to ensure the runway is not obstructed by aircraft stopping at the holding point and then waiting for an instruction from the SMC controller. 
+Traffic vacating the active runway shall not be immediately transferred to the GMC Controller, it is the responsibility of the TWR Controller to issue an initial taxi clearance onto taxiway A to ensure the runway is not obstructed by aircraft stopping at the holding point and then waiting for an instruction from the GMC controller. 
 
 The aim is to ensure the runway is kept clear to allow smooth and efficient flow of traffic in and out of **Bahrain International Airport (OBBI)**. 
 
-The SMC Controller (if online) has the responsibility to ensure all aircraft on final approach are allocated with a stand number, this allows the TWR Controller to be able to issue an initial taxi clearance after vacating the runway in the direction of that allocated parking stand. 
+The GMC Controller (if online) has the responsibility to ensure all aircraft on final approach are allocated with a stand number, this allows the TWR Controller to be able to issue an initial taxi clearance after vacating the runway in the direction of that allocated parking stand. 
 
 #### 3.4.3.1 After Landing Phraseology 
 
