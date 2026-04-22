@@ -297,8 +297,8 @@ VFR Circuits at OKKK (Kuwait International Airport) are carried out only on RWY3
 
 | **Runway** | **Circuit Direction** | **Altitude (Piston)** | **Altitude (Jet)** |
 |------------|-----------------------|-----------------------|--------------------|
-| 34         | Left-Hand             | 1000ft                | 2000ft             |
-| 16         | Right-Hand            | 1000ft                | 2000ft             |
+| 34         | Left-Hand             | 1000ft                | 1500ft             |
+| 16         | Right-Hand            | 1000ft                | 1500ft             |
 
 #### 3.5.1.1 VFR Circuits phraseology
 
@@ -332,9 +332,9 @@ VFR Flights planning to depart **Kuwait International Airport (OKKK)** to leave 
 
 > Pilot - "9K-SAA with you Apron 3 with information A on board, aircraft type C172 request clearance to leave the zone to the South"
 
-> **TWR Controller:** "9K-SAA, good afternoon, cleared to leave the zone to the south via Ahmadi not above altitude 2000ft VFR, squawk 1011"
+> **TWR Controller:** "9K-SAA, good afternoon, cleared to leave the zone to the south via Ahmadi not above altitude 1500ft VFR, squawk 1011"
 
-> Pilot - "9K-SAA, cleared to leave the zone to the south via Ahmadi, not above altitude 2000ft VFr, squawk 1011.
+> Pilot - "9K-SAA, cleared to leave the zone to the south via Ahmadi, not above altitude 1500ft VFR, squawk 1011.
 
 > **TWR Controller:** "9K-SAA, readback correct information A is current QNH 1019 advise when ready for startup."
 
@@ -348,7 +348,7 @@ Once the pilot has taken off, and reports airbone, instruct them to leave the co
 
 > Pilot - "9K-SAA, wilco."
 
-> Pilot - "9K-SAA, one mile from exiting, 2000ft VFR."
+> Pilot - "9K-SAA, one mile from exiting, 1500ft VFR."
 
 > **TWR Controller:** "9K-SAA, you are leaving the control zone monitor advisory on 122.800."
 
@@ -363,9 +363,9 @@ During times of heavy IFR arrival activity, VFR arrivals may be denied entry int
 
 >Pilot - "9K-SAA, with you 15nm west of the airfield request clearance to enter the control zone."
 
->**TWR Controller:** "9K-SAA, good afternoon, cleared to enter the control zone routing **eastbound**, not above altitude 2000ft VFR, squawk 1057"
+>**TWR Controller:** "9K-SAA, good afternoon, cleared to enter the control zone routing **eastbound**, not above altitude 1500ft VFR, squawk 1057"
 
->Pilot - "9K-SAA, cleared to enter the control zone routing eastbound, not above altitude 2000ft VFR, squawk 1057"
+>Pilot - "9K-SAA, cleared to enter the control zone routing eastbound, not above altitude 1500ft VFR, squawk 1057"
 
 >**TWR Controller:** "9K-SAA, read back is correct, **QNH 1019**. Report when airfield is in-sight."
 
