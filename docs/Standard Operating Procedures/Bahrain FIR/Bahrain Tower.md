@@ -40,7 +40,7 @@ At **Bahrain International Airport (OBBI)**, the preferential runway is 30R for 
 !!! tip "References to use!" 
     - You can always reference real world sources! However, this should NEVER become a reliance. 
     
-    - All Controllers should bare the ability to read weather and make an assessment on what the active runway in use should be.
+    - All Controllers should bear the ability to read weather and make an assessment on what the active runway in use should be.
 
 #### 3.1.1 Runway Change
 If the **TWR Controller** deems it necessary to change the active runway due to a change in wind direction this should be coordinated with all controllers above and below as this changes departure and arrival clearances. 
