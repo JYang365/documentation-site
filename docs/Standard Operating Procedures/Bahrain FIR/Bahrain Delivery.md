@@ -23,7 +23,7 @@ Once clearance has been issued and readback correctly from the pilot the GMP con
 ## Chapter 2. GEN | Standard Operating Procedures 
 
 ### 2.1 Issuing IFR Clearances 
-It is the responsibility of the **GMP Controller** to issue clearances to departing aircraft. You might expect the following information to be passed from the pilot tot he **GMP Controller** on initial contact.
+It is the responsibility of the **GMP Controller** to issue clearances to departing aircraft. You might expect the following information to be passed from the pilot to the **GMP Controller** on initial contact.
 
 - Stand Number.
 - Aircraft Type.
