@@ -158,7 +158,7 @@ The **Approach Controller** should climb aircraft as per the above table ensurin
 #### 3.2.3 Transitioning Aircraft to the Airways 
 Due to the lack of **Standard Instrument Departures (SIDs)** out of Bahrain or any of the aerodromes that fall under the responsibility of the Approach Controller is essentially the controller has a full understanding of the airspace structure that is within his area of responsibility. 
 
-The Controller must successfully transition and guide aircraft from the narrow confinements of the **Terminal Maneuvering Area (TMA)** in a controlled and separated manner onto their filed flight plan route before being handed off to the next controller. 
+The Controller must successfully transition and guide aircraft from the narrow confines of the **Terminal Maneuvering Area (TMA)** in a controlled and separated manner onto their filed flight plan route before being handed off to the next controller. 
 Approach Controllers should always have a plan of action before aircraft come into their airspace and understand their order of sequence at all times in order to avoid a loss of separation. 
 
 Aircraft will initially come to the Approach Controller on one of the initial headings assigned from the DLV Controller, the **APP Controller** will either provide the aircraft with additional vectors towards the aircraft planned airway or provide them with a direct to a fix to join the airway system into the en route environment.
