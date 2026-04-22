@@ -1,0 +1,180 @@
+# 5.4 Special Coordination
+
+Special coordination covers non-standard, priority, or abnormal situations requiring enhanced communication between units.
+
+---
+
+## 5.4.1 General Principles
+
+Special coordination shall be applied when standard procedures are insufficient to ensure safety or efficiency.
+
+Controllers must:
+
+– Prioritise safety above all else  
+– Clearly communicate intentions  
+– Confirm all critical information  
+– Coordinate early and explicitly  
+
+---
+
+## 5.4.2 Priority Aircraft
+
+Priority shall be given to:
+
+– Aircraft declaring an emergency (MAYDAY / PAN PAN)  
+– Aircraft with medical emergencies onboard  
+– Aircraft with low fuel or operational urgency  
+– Aircraft conducting security or military operations  
+
+The Tower controller must:
+
+– Provide immediate handling priority  
+– Expedite clearances and instructions  
+– Inform and coordinate with all relevant units  
+
+Example:
+
+```text
+GFA789, priority landing approved, runway 27, wind 270 degrees 8 knots, cleared to land.
+```
+
+---
+
+## 5.4.3 Emergency Coordination
+
+In an emergency situation, the controller must:
+
+– Acknowledge the emergency  
+– Obtain essential information (nature, intentions, fuel, souls on board if required)  
+– Coordinate with Approach and other units  
+– Ensure the runway is available  
+
+Additional actions:
+
+– Suspend normal operations if required  
+– Keep communications concise and clear  
+– Monitor the aircraft continuously  
+
+Example:
+
+```text
+GFA789, roger MAYDAY, runway 27, cleared to land, wind 270 degrees 8 knots.
+```
+
+---
+
+## 5.4.4 Opposite Direction Operations
+
+Opposite direction operations may be used when:
+
+– Required for operational reasons  
+– Wind conditions favour an alternative runway direction  
+– Traffic permits safe execution  
+
+The controller must:
+
+– Ensure no conflicting traffic exists  
+– Coordinate with Approach where applicable  
+– Clearly inform all affected aircraft  
+
+Example:
+
+```text
+GFA123, runway 09, cleared for takeoff, opposite direction traffic in operation.
+```
+
+---
+
+## 5.4.5 Runway Closure and Restrictions
+
+If a runway becomes unavailable:
+
+– Immediately suspend all clearances  
+– Inform all aircraft on frequency  
+– Coordinate with Approach and adjacent units  
+
+The controller must:
+
+– Issue alternative instructions  
+– Re-sequence traffic as required  
+– Provide delay or diversion information if necessary  
+
+Example:
+
+```text
+All stations, runway 27 closed, standby for further instructions.
+```
+
+---
+
+## 5.4.6 Low Visibility Operations (LVP)
+
+During reduced visibility conditions, controllers must:
+
+– Increase spacing between aircraft  
+– Protect critical areas (e.g. ILS sensitive areas)  
+– Ensure strict adherence to procedures  
+
+Additional considerations:
+
+– Minimise runway occupancy time  
+– Avoid conditional clearances where possible  
+– Maintain precise phraseology  
+
+---
+
+## 5.4.7 Multiple Go-Around Situations
+
+When multiple go-arounds occur:
+
+– Re-establish sequencing immediately  
+– Coordinate with Approach  
+– Avoid compounding conflicts  
+
+The controller must:
+
+– Maintain awareness of all aircraft positions  
+– Issue clear and simple instructions  
+– Prioritise stabilising the situation  
+
+---
+
+## 5.4.8 Non-Routine Traffic
+
+Non-routine traffic includes:
+
+– VFR transits through controlled airspace  
+– Training flights and circuits  
+– Helicopter operations  
+– Military or special flights  
+
+The controller must:
+
+– Integrate traffic safely with IFR operations  
+– Apply appropriate separation  
+– Provide clear instructions tailored to aircraft type  
+
+---
+
+## 5.4.9 Key Principles
+
+Special coordination requires:
+
+– Early recognition of non-standard situations  
+– Clear and concise communication  
+– Strong situational awareness  
+– Decisive and timely action  
+
+Controllers must:
+
+– Avoid ambiguity  
+– Confirm coordination outcomes  
+– Adapt to changing situations  
+– Maintain control of the overall traffic picture  
+
+Failure to apply effective special coordination may result in:
+
+– Loss of separation  
+– Increased workload  
+– Traffic inefficiency  
+– Reduced safety margins  
