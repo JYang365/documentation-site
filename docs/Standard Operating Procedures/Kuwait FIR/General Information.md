@@ -12,7 +12,7 @@ title: General Information
 
 
 # Runways
-**Kuwait International Airport** has 6 published runways, 15L/33R, 15R/33L, and 16/34.  
+**Kuwait International Airport** has 3 published runways, 15L/33R, 15R/33L, and 16/34.  
 
 | Runway | Dimensions  | True Bearing | Elevation |
 |--------|-------------|--------------|-----------|
