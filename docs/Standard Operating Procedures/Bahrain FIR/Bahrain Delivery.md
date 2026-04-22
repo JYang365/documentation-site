@@ -16,7 +16,7 @@ toc_max_heading_level: 6
 ## Chapter 1. Position Overview 
 **Bahrain Delivery (DLV)** provides aircraft with a departure clearance and is responsible for passing the ATIS (Automatic Terminal Information Service) to the pilot. DLV Controller should ensure the flight plan filed by the pilot is correct and that the departure list is updated to indicate the correct initial heading after departure, the initial altitude and assigned squawk code. 
 
-Once clearance has been issued and readback correctly from the pilot the DLV controller will transfer the aircraft to the SMC controller when they report they are ready for pushback and start. During busy periods the SMC Controller can inform the DLV Controller of the requirement to not release aircraft in order to restrict the rate of departures, reducing the workload. 
+Once clearance has been issued and readback correctly from the pilot the DLV controller will transfer the aircraft to the GMC controller when they report they are ready for pushback and start. During busy periods the GMC Controller can inform the DLV Controller of the requirement to not release aircraft in order to restrict the rate of departures, reducing the workload. 
 
 ----
 
@@ -58,7 +58,7 @@ Once the pilot has correctly read back the clearance, if the pilot did not provi
 
 > **DLV Controller:** _**"GFA178, read back is correct, information Alpha is current, report when ready for push and start."**_
 
-When the aircraft has reported ready for push and start they will be transferred to the SMC Controller and it is to be assumed by the SMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter.** 
+When the aircraft has reported ready for push and start they will be transferred to the GMC Controller and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter.** 
 
 ### 2.1.1 Airway Clearances
 Due to the lack of Standard Instrument Departures out of Bahrain all aircraft should be provided with an airway clearance followed by an initial heading to fly after departure. 
