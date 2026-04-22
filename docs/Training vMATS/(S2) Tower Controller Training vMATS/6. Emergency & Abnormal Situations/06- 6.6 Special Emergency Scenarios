@@ -1,0 +1,139 @@
+## 6.6 Special Emergency Scenarios
+
+Certain emergency situations require specific considerations beyond standard procedures. The controller must adapt handling based on the nature of the emergency while maintaining safety as the primary objective.
+
+---
+
+### 6.6.1 Fire On Board
+
+A fire on board is a critical emergency requiring immediate landing.
+
+The controller shall:
+
+- Prioritise the aircraft immediately  
+- Clear the runway without delay  
+- Stop all departures if required  
+- Provide the shortest and safest routing for landing  
+- Alert emergency services immediately  
+
+Example:
+
+GFA123, roger MAYDAY, runway 27 cleared to land, wind 270 degrees 8 knots, emergency services are standing by.
+
+---
+
+### 6.6.2 Medical Emergency
+
+Medical emergencies may not always require immediate landing but must be handled with priority.
+
+The controller shall:
+
+- Offer priority handling where requested  
+- Coordinate with medical services on the ground  
+- Minimise delays in approach and landing  
+- Provide direct routing where possible  
+
+Example:
+
+GFA456, roger PAN PAN, runway 27 cleared to land, medical assistance will be available on arrival.
+
+---
+
+### 6.6.3 Fuel Emergency
+
+A fuel emergency (minimum fuel or MAYDAY fuel) requires careful handling.
+
+The controller shall:
+
+- Clarify whether the situation is MAYDAY or minimum fuel  
+- Provide priority landing where required  
+- Avoid unnecessary delays or vectoring  
+- Ensure sequencing supports immediate landing  
+
+Note:
+
+- **Minimum fuel** = no delay can be accepted  
+- **MAYDAY fuel** = emergency, priority required  
+
+Example:
+
+GFA789, roger MAYDAY fuel, runway 27 cleared to land, no delay expected.
+
+---
+
+### 6.6.4 Unlawful Interference (Hijack)
+
+Security situations must be handled discreetly and in accordance with procedures.
+
+The controller shall:
+
+- Avoid broadcasting sensitive information on frequency  
+- Comply with instructions from authorities  
+- Continue normal communication unless instructed otherwise  
+- Monitor the aircraft closely  
+
+Indicators may include:
+
+- Transponder code 7500  
+- Unusual or coded communication  
+- Deviations from clearance without explanation  
+
+---
+
+### 6.6.5 Radio Communication Failure in Emergency Context
+
+If an aircraft experiences both an emergency and radio failure:
+
+The controller shall:
+
+- Assume the aircraft will follow standard procedures  
+- Use visual signals if applicable  
+- Clear the runway and protect the airspace  
+- Monitor the aircraft for expected actions  
+
+The controller must anticipate pilot intentions.
+
+---
+
+### 6.6.6 Evacuation After Landing
+
+If an evacuation occurs:
+
+The controller shall:
+
+- Stop all traffic on affected surfaces  
+- Protect the runway and surrounding area  
+- Coordinate emergency response immediately  
+- Prevent other aircraft from entering the area  
+
+No aircraft or vehicle shall be permitted to interfere with emergency operations.
+
+---
+
+### 6.6.7 Multiple Emergencies
+
+In rare cases of multiple simultaneous emergencies:
+
+The controller shall:
+
+- Prioritise based on severity  
+- Request assistance if available  
+- Simplify traffic to the greatest extent possible  
+- Focus on maintaining safe separation  
+
+Workload management becomes critical in these situations.
+
+---
+
+### 6.6.8 Key Principles
+
+In all special emergency scenarios:
+
+- Safety is the overriding priority  
+- Actions must be timely and decisive  
+- Communication must remain clear and controlled  
+- Coordination must not be delayed  
+
+The controller must remain calm and in control at all times.
+
+---
