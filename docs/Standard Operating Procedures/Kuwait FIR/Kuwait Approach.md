@@ -167,7 +167,7 @@ The **APP Controller** should always have a clear plan of action when controllin
 #### 3.2.3 Holdings
 If at any point the controller is unable to manage the traffic load within the **Kuwait Terminal Maneuvering Area (TMA)** it is their responsibility to place aircraft into the hold until traffic can once again be sequenced for an approach to the runway.
 
-Within the **Kuwait Terminal Maneuvering Area (TMA)** there are 6 published holding procedures, and they are as follows:
+Within the **Kuwait Terminal Maneuvering Area (TMA)** there are 3 published holding procedures, and they are as follows:
 
 | **Hold Identifier** | **Vertical Limits** | **Inbound Holding Course** | **Maximum Holding Speed** | **Turn Direction** |
 |:-------------------:|:-------------------:|:--------------------------:|---------------------------|--------------------|
@@ -193,4 +193,4 @@ For instance, the 1st aircraft would enter the hold at 8000ft, 2nd aircraft woul
 
 When the requirement for the hold is no longer required, the aircraft at the bottom of the hold will be given instruction to exit first whether that be by radar vectors or to carry on with the published **Standard Terminal Arrival (STAR)**, this will then allow the 2nd aircraft within the holding pattern to descend to the block altitude within the holding pattern that the previous aircraft held.
 
-The **APP Controller** will continue to descend aircraft in the holding pattern until it is there time to leave the hold. 
+The **APP Controller** will continue to descend aircraft in the holding pattern until it is their time to leave the hold. 
