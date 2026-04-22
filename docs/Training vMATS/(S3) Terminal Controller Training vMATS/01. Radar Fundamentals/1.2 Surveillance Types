@@ -1,0 +1,26 @@
+# 1.2 Surveillance Types
+
+## Primary Surveillance Radar (PSR)
+
+Primary radar detects aircraft using reflected radio signals.
+
+**Characteristics:**
+- No aircraft equipment required
+- Provides range and bearing
+- Does not provide altitude or identification
+
+---
+
+## Secondary Surveillance Radar (SSR)
+
+SSR relies on aircraft transponders.
+
+### Modes:
+- Mode A: Identification (squawk)
+- Mode C: Altitude
+- Mode S: Enhanced data
+
+**Advantages:**
+- Positive identification
+- Altitude information
+- Improved accuracy
