@@ -14,16 +14,16 @@ toc_max_heading_level: 6
 ----
 
 ## Chapter 1. Position Overview 
-**Bahrain Delivery (GMP)** provides aircraft with a departure clearance and is responsible for passing the ATIS (Automatic Terminal Information Service) to the pilot. GMP Controller should ensure the flight plan filed by the pilot is correct and that the departure list is updated to indicate the correct initial heading after departure, the initial altitude and assigned squawk code. 
+**Bahrain Delivery (DLV)** provides aircraft with a departure clearance and is responsible for passing the ATIS (Automatic Terminal Information Service) to the pilot. DLV Controller should ensure the flight plan filed by the pilot is correct and that the departure list is updated to indicate the correct initial heading after departure, the initial altitude and assigned squawk code. 
 
-Once clearance has been issued and readback correctly from the pilot the GMP controller will transfer the aircraft to the SMC controller when they report they are ready for pushback and start. During busy periods the SMC Controller can inform the GMP Controller of the requirement to not release aircraft in order to restrict the rate of departures, reducing the workload. 
+Once clearance has been issued and readback correctly from the pilot the DLV controller will transfer the aircraft to the SMC controller when they report they are ready for pushback and start. During busy periods the SMC Controller can inform the DLV Controller of the requirement to not release aircraft in order to restrict the rate of departures, reducing the workload. 
 
 ----
 
 ## Chapter 2. GEN | Standard Operating Procedures 
 
 ### 2.1 Issuing IFR Clearances 
-It is the responsibility of the **GMP Controller** to issue clearances to departing aircraft. You might expect the following information to be passed from the pilot to the **GMP Controller** on initial contact.
+It is the responsibility of the **DLV Controller** to issue clearances to departing aircraft. You might expect the following information to be passed from the pilot to the **DLV Controller** on initial contact.
 
 - Stand Number.
 - Aircraft Type.
@@ -43,20 +43,20 @@ An **IFR Clearance** should have the following information in this order:
 
 ***IFR Departure Clearance Example***
 
-> **GMP Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 NALPO, after departure fly heading 345 degrees, initial climb 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 NALPO, after departure fly heading 345 degrees, initial climb 4000ft, squawk 4212"**_
 
-The GMP Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
+The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **GMP Controller:** _**"GFA178, Negative. Cleared to Dubai via N697 SODAK P559 NALPO, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, Negative. Cleared to Dubai via N697 SODAK P559 NALPO, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
 
 !!!node "Be patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!
 
-Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the GMP Controller will provide this to the pilot once read back has been provided. 
+Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
 
-> **GMP Controller:** _**"GFA178, read back is correct, information Alpha is current, report when ready for push and start."**_
+> **DLV Controller:** _**"GFA178, read back is correct, information Alpha is current, report when ready for push and start."**_
 
 When the aircraft has reported ready for push and start they will be transferred to the SMC Controller and it is to be assumed by the SMC Controller that the pilot has a **correct clearance and has confirmed the latest ATIS Letter.** 
 
@@ -82,11 +82,11 @@ To prevent the aircraft after departure immediately turning for the BHR VOR they
 |          P700 ROTOX          |                        |
 
 ### 2.1.2 Datalink Clearances (DCL)
-Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the GMP Controller. This service can only be provided to pilot who's aircraft has sufficient systems installed such as ACARS to send and receive text messages from a controlling unit. 
-It is a requirement of the GMP Controller to ensure datalink is available at all times.
+Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the DLV Controller. This service can only be provided to pilot who's aircraft has sufficient systems installed such as ACARS to send and receive text messages from a controlling unit. 
+It is a requirement of the DLV Controller to ensure datalink is available at all times.
 
 ### 2.1.3 Incorrect Filed Flight Plans
-It is the responsibility of the GMP Controller to ensure flight plans are correctly filed and using valid routings in conjunction with the RouteChecker. 
+It is the responsibility of the DLV Controller to ensure flight plans are correctly filed and using valid routings in conjunction with the RouteChecker. 
 If routes are not filed correctly you must inform the pilot that they have filed an incorrect flight plan by **private message.** 
 
 If a pilot calls on frequency before you have the chance to send the **private message** please advise the pilot on frequency to expect a route change via **private message**.
@@ -94,12 +94,12 @@ If a pilot calls on frequency before you have the chance to send the **private m
 You can use tools such as SimBrief to provide pilots with valid routings. **** actively ensures routes are updated in SimBrief for pilots to use. 
 
 ### 2.1.4 Filed Flight Levels 
-**Bahrain Delivery (GMP)** must ensure pilots are filing correct flight levels in accordance with their filed routings. If pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
+**Bahrain Delivery (DLV)** must ensure pilots are filing correct flight levels in accordance with their filed routings. If pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
 
 Bahrain utilises the Semi-Circular Rule. Flights flying Westbound should file **Even** levels and flights flying Eastbound should file **Odd** levels. 
 
 ### 2.1.5 Flight Level Capping 
-Multiple destinations across the Gulf Region have level capped routings due to operational reasons. The GMP Controller shall ensure adherence to the below table, it is the responsibility of the GMP Controller to ensure aircraft have filed a correct level in the their flight plan prior to issuing a clearance. If an incorrect level has been filed the GMP Controller shall inform the pilot (through private message/on frequency) that they are required to file a revised flight plan with the new level in accordance with the below table for level capped routings. 
+Multiple destinations across the Gulf Region have level capped routings due to operational reasons. The DLV Controller shall ensure adherence to the below table, it is the responsibility of the DLV Controller to ensure aircraft have filed a correct level in the their flight plan prior to issuing a clearance. If an incorrect level has been filed the DLV Controller shall inform the pilot (through private message/on frequency) that they are required to file a revised flight plan with the new level in accordance with the below table for level capped routings. 
 
 | **Destination** | **Max Altitude / Flight Level** |
 |:---------------:|:-------------------------------:|
@@ -144,10 +144,10 @@ The Aircraft will then be provided radar vectors from Bahrain Approach after dep
 VFR Departures VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Maneuvering Area (TMA)**. There are no published VFR routes in the Bahrain CTR. Aircraft shall therefore be cleared on track to their destination.
 
 #### 2.3.2 VFR Clearances
-GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, GMP must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the GMP Controller to pass to the pilot. 
+DLV is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, DLV must coordinate with TWR to ensure the TWR controller can accept local traffic into his CTR. TWR has the authority to delay traffic into his CTR if the traffic load is high. The TWR Controller must provide a estimated delay time to the DLV Controller to pass to the pilot. 
 
 #### 2.3.3 VFR Circuits
-Once **Bahrain Delivery (GMP)** has recieved confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
+Once **Bahrain Delivery (DLV)** has recieved confirmation from the TWR controller that they are happy to accept **VFR Circuit Traffic** they can continue with issuing a VFR clearance to the aircraft. Please see below the standard pattern information below.
 
 !!!node "Act Promptly"
     When you see a pilot file a VFR FPL ensure you act promptly and efficiently and coordinate with the relevant controller to ensure they are able to accept the aircraft into their airspace. Do not wait for the pilot to call up on frequency before coordinating with the relevant ATS Unit. 
@@ -159,13 +159,13 @@ Once **Bahrain Delivery (GMP)** has recieved confirmation from the TWR controlle
 
 ***VFR Circuit Clearance Example***
 
-> **GMP Controller:** _**"A9C-ZZ, cleared right hand circuits RWY30R, not above altitude 1000ft VFR, squawk 7001"**_
+> **DLV Controller:** _**"A9C-ZZ, cleared right hand circuits RWY30R, not above altitude 1000ft VFR, squawk 7001"**_
 
-The GMP Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
+The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
-Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the GMP Controller will provide this to the pilot once read back has been provided. 
+Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter on initial contact, the DLV Controller will provide this to the pilot once read back has been provided. 
 
-> **GMP Controller:** _**"A-ZZ, read back is correct, information Alpha is current, report ready for startup."**_
+> **DLV Controller:** _**"A-ZZ, read back is correct, information Alpha is current, report ready for startup."**_
 
 !!!node "Callsign Shortening" 
     After initial contact has been made and established with the aircraft, you can shorten the callsign from A9C-ZZ to A-ZZ, read as Alpha - Zulu - Zulu. This is to reduce frequency congestion.
