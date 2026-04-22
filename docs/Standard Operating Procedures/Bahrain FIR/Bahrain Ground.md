@@ -40,7 +40,7 @@ The **SMC Controller** is responsible for providing departing aircraft with a pu
 
 Example:
 
-> **SMC Controller:** _**"GFA250, stand 22, push and start approved facing west on on Taxiway Zulu, QNH1022"**_
+> **SMC Controller:** _**"GFA250, stand 22, push and start approved facing west on Taxiway Zulu, QNH1022"**_
 
 Once the push back clearance has been issued the **SMC Controller** should ensure they update the tag to provide all controllers with additional situational awareness. 
 
