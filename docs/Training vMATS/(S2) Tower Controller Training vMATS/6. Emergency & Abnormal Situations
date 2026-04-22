@@ -1,0 +1,283 @@
+# 6. Emergency & Abnormal Situations
+
+Emergency and abnormal situations require immediate, decisive action to maintain safety. Controllers must prioritise affected aircraft while maintaining overall situational awareness.
+
+---
+
+## 6.1 General Principles
+
+In all emergency or abnormal situations, the controller must:
+
+– Prioritise safety above all other considerations  
+– Provide maximum assistance to the aircraft  
+– Maintain clear and concise communication  
+– Avoid overloading the frequency  
+– Coordinate with all relevant units  
+
+The controller shall remain calm, structured, and proactive at all times.
+
+---
+
+## 6.2 Identification of Emergencies
+
+An emergency may be identified by:
+
+– Pilot declaration (MAYDAY / PAN PAN)  
+– Abnormal pilot behaviour or requests  
+– Loss of communication  
+– Unexpected aircraft performance or deviation  
+
+Emergency phases:
+
+– **INCERFA**: Uncertainty phase  
+– **ALERFA**: Alert phase  
+– **DETRESFA**: Distress phase  
+
+Controllers must treat all potential emergencies seriously until confirmed otherwise.
+
+---
+
+## 6.3 Controller Priorities
+
+When handling an emergency, priorities are:
+
+1. Separate aircraft  
+2. Establish communication  
+3. Provide assistance  
+4. Coordinate with other units  
+5. Maintain overall traffic awareness  
+
+Other traffic shall be delayed, re-sequenced, or instructed as required.
+
+---
+
+## 6.4 MAYDAY (Distress)
+
+A MAYDAY indicates grave and imminent danger.
+
+Controller actions:
+
+– Acknowledge immediately  
+– Clear the runway and surrounding airspace  
+– Provide direct routing if required  
+– Suspend non-essential operations  
+– Coordinate with Approach and emergency services  
+
+Example:
+
+```text
+GFA789, roger MAYDAY, runway 27, cleared to land, wind 270 degrees 8 knots.
+```
+
+---
+
+## 6.5 PAN PAN (Urgency)
+
+A PAN PAN indicates urgency but not immediate danger.
+
+Controller actions:
+
+– Provide priority handling  
+– Maintain separation from other traffic  
+– Monitor the situation closely  
+– Be prepared to escalate if required  
+
+Example:
+
+```text
+GFA456, roger PAN PAN, continue approach runway 27, you are number one.
+```
+
+---
+
+## 6.6 Radio Failure (R/T Failure)
+
+If an aircraft experiences radio failure:
+
+– Observe standard procedures (e.g. squawk 7600)  
+– Maintain predictable traffic flow  
+– Protect the aircraft’s expected path  
+– Avoid conflicting clearances  
+
+The controller must:
+
+– Monitor for light signals (if applicable)  
+– Continue to provide separation  
+– Anticipate pilot actions based on procedures  
+
+---
+
+## 6.7 Aircraft Emergency on the Runway
+
+If an aircraft becomes disabled on the runway:
+
+– Immediately close the runway  
+– Instruct all aircraft to go around or hold position  
+– Coordinate emergency response  
+– Inform all affected traffic  
+
+Example:
+
+```text
+All stations, runway 27 blocked, go around, acknowledge.
+```
+
+---
+
+## 6.8 Loss of Separation
+
+If separation is lost or about to be lost:
+
+– Take immediate corrective action  
+– Issue avoiding instructions  
+– Use simple, clear phraseology  
+
+Actions may include:
+
+– Go-around  
+– Stop departure  
+– Issue heading or altitude instructions (if applicable)  
+
+Example:
+
+```text
+GFA123, go around immediately.
+```
+
+---
+
+## 6.9 Unstable Approach
+
+If an approach becomes unsafe:
+
+– Issue go-around without delay  
+– Do not wait for pilot request  
+– Maintain separation with other traffic  
+
+Indicators include:
+
+– Excessive speed  
+– Incorrect alignment  
+– Late descent profile  
+
+---
+
+## 6.10 Low Fuel / Fuel Emergency
+
+If an aircraft reports low fuel:
+
+– Provide priority handling  
+– Avoid delays  
+– Coordinate for immediate landing  
+
+If minimum fuel or MAYDAY FUEL is declared:
+
+– Treat as priority/emergency  
+– Ensure immediate landing capability  
+
+---
+
+## 6.11 Weather-Related Situations
+
+Adverse weather may include:
+
+– Low visibility  
+– Strong winds or windshear  
+– Thunderstorms  
+
+Controller actions:
+
+– Increase spacing  
+– Provide updated weather information  
+– Be prepared for go-arounds or diversions  
+
+---
+
+## 6.12 Bird Strike / Foreign Object Damage
+
+If an aircraft reports a bird strike:
+
+– Assess aircraft condition  
+– Provide priority landing if required  
+– Inspect runway if necessary  
+
+---
+
+## 6.13 Security Incidents
+
+Security situations may include:
+
+– Hijacking  
+– Unlawful interference  
+– Suspicious behaviour  
+
+Controller actions:
+
+– Follow local procedures  
+– Maintain discretion  
+– Avoid alerting other aircraft unnecessarily  
+– Coordinate with appropriate authorities  
+
+---
+
+## 6.14 Coordination During Emergencies
+
+During emergencies, the controller must coordinate with:
+
+– Approach / Radar  
+– Adjacent aerodromes  
+– Emergency services  
+
+Information to pass:
+
+– Callsign  
+– Nature of emergency  
+– Runway in use  
+– Intentions  
+
+---
+
+## 6.15 Communication Techniques
+
+Effective communication is critical:
+
+– Use standard phraseology  
+– Speak clearly and calmly  
+– Avoid unnecessary transmissions  
+– Confirm critical instructions  
+
+Do not overload the pilot with information.
+
+---
+
+## 6.16 Post-Incident Actions
+
+After the situation is resolved:
+
+– Resume normal operations gradually  
+– Ensure runway is safe and available  
+– Document the event if required  
+– Review actions taken  
+
+---
+
+## 6.17 Key Principles
+
+Emergency handling is based on:
+
+– Immediate action  
+– Clear communication  
+– Strong situational awareness  
+– Effective coordination  
+
+Controllers must:
+
+– Act decisively  
+– Prioritise correctly  
+– Maintain control of the situation  
+
+Failure to manage emergencies effectively may result in:
+
+– Loss of separation  
+– Runway conflicts  
+– Increased risk to aircraft and passengers  
