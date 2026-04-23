@@ -1,78 +1,79 @@
 # Section 6 Quick Reference – Emergency & Abnormal Situations
 
-This quick reference is designed for use during live control. It summarises key actions and priorities.
+This quick reference is intended for use during live control and summarises key actions and priorities.
 
 ---
 
 ## 1. Immediate Priorities
 
-1. Aviate (pilot responsibility)  
-2. Navigate  
-3. Communicate  
-4. Control (ATC support)  
+Controller shall:
 
-Controller priority:
-
-- Safety first  
+- Prioritise safety at all times  
 - Prioritise the affected aircraft  
-- Maintain separation with other traffic  
+- Maintain separation from all other traffic  
 
 ---
 
 ## 2. Emergency Recognition
 
-Indicators:
+### Indicators
 
 - MAYDAY (distress)  
 - PAN PAN (urgency)  
-- Transponder codes:
+- SSR codes:  
   - 7700 – General emergency  
   - 7600 – Radio failure  
   - 7500 – Unlawful interference  
 
-Other signs:
+### Additional Signs
 
-- Unusual requests (priority, immediate landing)  
-- Erratic flight behaviour  
-- Long or unstable approaches  
+- Requests for priority or immediate landing  
+- Erratic or abnormal flight behaviour  
+- Unstable or extended approaches  
 
 ---
 
-## 3. Immediate Controller Actions
+## 3. Immediate Actions
+
+Controller shall:
 
 - Acknowledge immediately  
-- Identify nature of emergency  
+- Identify the nature of the emergency  
 - Provide priority handling  
-- Keep frequency clear  
+- Maintain frequency discipline  
 - Stop departures if required  
-- Clear the runway  
+- Ensure runway availability  
+
+Controller shall not delay action.
 
 ---
 
 ## 4. Traffic Management
 
-- Issue go-arounds if needed  
-- Create space around the aircraft  
-- Reduce workload early  
-- Simplify traffic  
+Controller shall:
+
+- Issue go-arounds where required  
+- Create separation around the aircraft  
+- Reduce traffic complexity early  
+- Simplify instructions  
 
 ---
 
 ## 5. Phraseology
 
-Standard:
+**Standard:**
 
-GFA123, roger MAYDAY.
+    GFA123, roger MAYDAY.  
+    GFA123, runway 27 cleared to land.  
+    GFA123, go around, I say again go around.
 
-GFA123, runway 27 cleared to land.
-
-GFA123, go around, I say again go around.
-
-If required, use plain language.
+Use plain language where required.
 
 ---
 
-## 6. Runway & Aerodrome
+## 6. Runway and Aerodrome
+
+Controller shall:
 
 - Ensure runway is clear  
 - Remove conflicting traffic  
@@ -83,42 +84,54 @@ If required, use plain language.
 
 ## 7. Coordination
 
-Coordinate with:
+Controller shall coordinate with:
 
-- Approach / Radar  
-- Ground  
+- Approach or Radar  
+- Ground Control  
 - Adjacent sectors  
 - Emergency services  
 
-Do not delay support while coordinating.
+Controller shall not delay assistance while coordinating.
 
 ---
 
 ## 8. After Landing
 
-- Ensure runway vacated  
-- Maintain protection of aircraft  
-- Manage emergency response  
+Controller shall:
+
+- Ensure runway is vacated where possible  
+- Protect the aircraft and surrounding area  
+- Coordinate emergency response  
 - Keep other traffic clear  
 
 ---
 
 ## 9. Recovery
 
+Controller shall:
+
 - Re-sequence traffic  
 - Resume departures gradually  
-- Maintain awareness  
-- Do not rush  
+- Re-establish situational awareness  
+- Maintain controlled traffic flow  
+
+Controller shall not rush recovery.
 
 ---
 
 ## 10. Key Reminders
 
-- Act early, not late  
+- Act early  
 - Keep instructions simple  
 - Do not overload the pilot  
-- Stay calm and structured  
+- Maintain control of the situation  
 
 ---
 
-End of Quick Reference
+## Key Principle
+
+Safety is the overriding priority.
+
+The controller shall act decisively, maintain separation, and ensure safe resolution of the situation.
+
+---
