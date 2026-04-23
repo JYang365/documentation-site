@@ -1,108 +1,116 @@
 # 4.4 Go-Around Management
 
-Go-arounds are a critical safety tool used by the Tower controller to maintain separation and prevent unsafe situations. Controllers must recognise when a go-around is required and act decisively.
+## 4.4.1 General
+
+A go-around is a critical safety action used by the Tower Controller to maintain separation and prevent unsafe runway operations.
+
+The Tower Controller shall recognise when a go-around is required and issue the instruction immediately.
+
+Delayed or ineffective go-around instructions may result in loss of separation or runway conflict.
 
 ---
 
-## 4.4.1 Objectives
+## 4.4.2 Objectives
 
-The controller aims to:
+The Tower Controller shall aim to:
 
 - Maintain safe separation between aircraft  
 - Prevent runway conflicts  
 - Ensure safe recovery from unstable situations  
 - Minimise disruption to traffic flow  
 
+Safety shall take priority over all other considerations.
+
 ---
 
-## 4.4.2 When to Issue a Go-Around
+## 4.4.3 When to Issue a Go-Around
 
-A go-around shall be instructed when:
+A go-around shall be instructed immediately when:
 
-- The runway is occupied  
+- The runway is occupied or will not be clear in time  
 - Required separation cannot be maintained  
-- An aircraft is slow to vacate the runway  
+- A preceding aircraft has not vacated the runway  
+- A departing aircraft creates a conflict  
 - The approach becomes unstable  
 - Any unsafe situation develops  
 
-The instruction must be issued without delay.
+The instruction shall not be delayed in an attempt to preserve efficiency.
 
 ---
 
-## 4.4.3 Phraseology
+## 4.4.4 Timing of Go-Around
 
-Go-around instructions must be clear and immediate.
+The Tower Controller shall issue go-around instructions **as early as possible**.
 
-Standard phraseology:
+Early go-arounds:
 
-```text
-GFA123, go around, I say again go around, acknowledge.
-```
-The instruction must not be delayed by unnecessary wording.
+- Reduce pilot workload  
+- Maintain predictable traffic flow  
+- Minimise disruption  
+
+Late go-arounds:
+
+- Increase risk  
+- Increase workload  
+- Reduce available options  
+
+The controller shall avoid late decision making.
 
 ---
 
-## 4.4.4 Controller Actions
+## 4.4.5 Phraseology
 
-Upon issuing a go-around, the controller must:
+Go-around instructions shall be clear, immediate, and unambiguous.
 
-- Monitor the aircraft climb  
+**Standard Phraseology:**
+
+    GFA456, go around, I say again go around.
+
+Where required, additional instructions may be issued:
+
+    GFA456, go around, fly runway heading, climb 3000 feet.
+
+---
+
+## 4.4.6 Controller Actions Following Go-Around
+
+After issuing a go-around, the Tower Controller shall:
+
+- Monitor the aircraft’s climb and track  
 - Ensure separation from other traffic  
+- Re-sequence the aircraft into the traffic pattern  
 - Provide further instructions as required  
-- Maintain awareness of other aircraft in sequence  
+- Coordinate with Approach Control where applicable  
 
-The go-around aircraft becomes priority traffic.
-
----
-
-## 4.4.5 Managing Multiple Go-Arounds
-
-In busy situations, multiple go-arounds may occur.
-
-The controller should:
-
-- Rebuild the sequence immediately  
-- Increase spacing between remaining aircraft  
-- Avoid issuing further tight sequencing instructions  
-- Reduce traffic complexity where necessary  
+The controller shall maintain awareness of both the go-around aircraft and all other traffic.
 
 ---
 
-## 4.4.6 Impact on Traffic Flow
+## 4.4.7 Impact on Traffic Flow
 
-A go-around affects all traffic.
+A go-around will affect the existing traffic sequence.
 
-The controller must:
+The Tower Controller shall:
 
 - Adjust the landing sequence  
-- Re-sequence aircraft in the circuit  
-- Consider delaying departures  
-- Maintain overall situational awareness  
+- Delay departures if required  
+- Increase spacing between aircraft  
+- Simplify traffic where necessary  
+
+Traffic flow shall be stabilised as soon as practicable.
 
 ---
 
-## 4.4.7 Recovery Techniques
+## 4.4.8 Key Principle
 
-After a go-around, the controller should:
+A go-around is a normal safety action and shall be used whenever required.
 
-- Re-establish a stable sequence  
-- Increase spacing proactively  
-- Use extend downwind or orbits as required  
-- Avoid repeating the same error  
+The Tower Controller shall:
 
----
+- Act decisively  
+- Issue the instruction early  
+- Prioritise safety over efficiency  
 
-## 4.4.8 Common Errors
-
-Common mistakes include:
-
-- Delaying the go-around instruction  
-- Attempting to “salvage” an unsafe situation  
-- Forgetting about other aircraft in sequence  
-- Losing situational awareness  
+Failure to issue a go-around when required is a significant operational error.
 
 ---
-
-## 4.4.9 Key Principle
-
-A go-around is a normal and safe instruction. Early action is always preferable to late correction.
