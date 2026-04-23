@@ -1,139 +1,155 @@
 ## 6.4 Emergency Handling Procedures
 
-Effective handling of emergencies requires structured, decisive action. The controller must manage the situation while maintaining overall traffic safety.
+Effective handling of emergencies requires structured and decisive action.
+
+The Tower Controller shall manage the emergency while maintaining overall safety of all traffic.
 
 ---
 
-### 6.4.1 Initial Response
+## 6.4.1 Initial Response
 
-Upon identification of an emergency, the controller shall:
+Upon identification of an emergency, the Tower Controller shall:
 
 - Acknowledge the aircraft immediately  
-- Identify the nature of the emergency  
+- Identify the nature of the emergency where possible  
 - Provide priority handling  
-- Ensure the frequency remains clear  
+- Maintain frequency discipline  
 - Avoid unnecessary transmissions  
 
-The controller must remain calm and composed at all times.
+The Tower Controller shall act without delay.
 
-Example:
+**Example:**
 
-GFA123, roger MAYDAY, say intentions.  
+    GFA123, roger MAYDAY, say intentions.
 
 ---
 
-### 6.4.2 Prioritisation
+## 6.4.2 Prioritisation
 
-The controller shall prioritise traffic in the following order:
+The Tower Controller shall prioritise traffic in the following order:
 
 1. Aircraft in distress (MAYDAY)  
 2. Aircraft in urgency (PAN PAN)  
 3. Other airborne traffic  
 4. Departures and ground movements  
 
-All other traffic shall be managed to avoid interference with the emergency aircraft.
+All other traffic shall be managed to ensure no interference with the emergency aircraft.
 
 ---
 
-### 6.4.3 Traffic Management
+## 6.4.3 Traffic Management
 
-The controller shall:
+The Tower Controller shall:
 
-- Stop departures if required  
+- Stop departures where required  
 - Issue go-arounds to arriving aircraft if necessary  
 - Create separation buffers around the emergency aircraft  
-- Keep adjacent airspace clear  
+- Maintain clear airspace in the vicinity  
 
-Where possible, simplify the traffic situation early.
+The Tower Controller shall simplify the traffic situation as early as practicable.
 
 ---
 
-### 6.4.4 Runway Management
+## 6.4.4 Runway Management
 
-The controller shall ensure:
+The Tower Controller shall ensure:
 
 - The runway is immediately available  
 - No conflicting traffic exists  
-- Vehicles or personnel are removed from the runway  
-- Emergency services access is considered  
+- All vehicles and personnel are clear of the runway  
+- Emergency services access is facilitated  
 
-If required, the runway shall be protected exclusively for the emergency aircraft.
+Where required, the runway shall be reserved exclusively for the emergency aircraft.
+
+A landing clearance shall not be issued to any other aircraft that may conflict with the emergency operation.
 
 ---
 
-### 6.4.5 Information Provision
+## 6.4.5 Information Provision
 
-The controller shall provide:
+The Tower Controller shall provide relevant information including:
 
 - Runway in use  
 - Wind direction and speed  
-- Surface conditions (if relevant)  
-- Traffic information (only if essential)  
+- Surface conditions where applicable  
+- Essential traffic information  
 
-Information must be concise and relevant to the situation.
+Information shall be concise, relevant, and limited to operational necessity.
 
 ---
 
-### 6.4.6 Coordination
+## 6.4.6 Coordination
 
-The controller shall coordinate with:
+The Tower Controller shall coordinate with:
 
-- Approach / Radar  
-- Ground control  
+- Approach or Radar  
+- Ground Control  
 - Adjacent sectors  
 - Emergency services  
 
-All coordination must be completed without delaying support to the aircraft.
+Coordination shall not delay assistance to the emergency aircraft.
 
 ---
 
-### 6.4.7 Communication Discipline
+## 6.4.7 Communication Discipline
 
-During emergencies:
+During emergency situations, the Tower Controller shall:
 
 - Keep transmissions short and clear  
 - Avoid unnecessary phraseology  
-- Use plain language if required  
-- Ensure instructions are easily understood  
+- Use plain language where required  
+- Ensure instructions are clearly understood  
 
-The pilot must not be overloaded with information.
+The Tower Controller shall not overload the pilot with excessive information.
 
 ---
 
-### 6.4.8 Monitoring the Situation
+## 6.4.8 Monitoring the Situation
 
-The controller shall:
+The Tower Controller shall:
 
 - Continuously monitor aircraft position and performance  
 - Anticipate further requirements  
-- Be prepared for changes (e.g. go-around, diversion)  
+- Prepare for changes such as go-around or diversion  
 
-Situational awareness must be maintained at all times.
+Situational awareness shall be maintained at all times.
 
 ---
 
-### 6.4.9 After Landing
+## 6.4.9 After Landing
 
-Once the aircraft has landed:
+Once the aircraft has landed, the Tower Controller shall:
 
-- Ensure the runway is vacated safely  
+- Ensure the runway is vacated safely where possible  
 - Provide instructions as required  
 - Coordinate emergency response on the ground  
 - Protect the aircraft from other traffic  
 
-Example:
+**Example:**
 
-GFA123, vacate runway when able, emergency services are on standby.
+    GFA123, vacate runway when able, emergency services are on standby.
 
 ---
 
-### 6.4.10 Documentation and Reporting
+## 6.4.10 Documentation and Reporting
 
-After the situation:
+Following the event, the Tower Controller shall:
 
-- Record relevant details  
-- Notify supervisors if required  
+- Record relevant operational details  
+- Notify supervisory staff where required  
 - Complete any required reports  
-- Review the handling for training purposes  
+- Participate in review or debrief processes  
+
+---
+
+## 6.4.11 Key Principle
+
+Emergency handling shall be:
+
+- Immediate  
+- Controlled  
+- Prioritised  
+
+The Tower Controller shall act decisively, maintain control of the traffic situation, and ensure safety at all times.
 
 ---
