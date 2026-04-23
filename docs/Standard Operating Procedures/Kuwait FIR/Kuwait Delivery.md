@@ -46,7 +46,7 @@ An **IFR Clearance** should have the following information in this order:
 
 ***IFR Departure Clearance Example***
 
-> **DEL Controller:** **"JZR101, cleared to Bahrain, via the BOXIK4E Departure, climb initially altitude 4000ft, squawk 4212"**
+> **DEL Controller:** **"JZR101, cleared to Bahrain, via BOXIK4E Departure, climb altitude 4000ft, squawk 4212"**
 
 !!!node "Departure Runway?"
     It is not a requirement for the DEL Controller to issue the departure runway in the IFR Clearance, it is expected the pilot has correctly listened to the D-ATIS
@@ -55,14 +55,14 @@ The DEL Controller **must** obtain a full and correct read back of the departure
 
 ***Challenge Example***
 
-> **DEL Controller:** _**"JZR101, Negative. Cleared to Bahrain via the BOXIK4E Departure, climb initially altitude 4000ft, squawk 4212"**_
+> **DEL Controller:** _**"JZR101, Negative. Cleared to Bahrain via BOXIK4E Departure, climb altitude 4000ft, squawk 4212"**_
 
 !!!node "Be Paitent and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
 
 Once the pilot has correctly read back the clearance, if the pilot did not provide the current ATIS letter, you must provide it.
 
-> **DEL Controller:** _**"JZR101, read back is correct, Information Alpha is current, report fully ready for push and start."**_
+> **DEL Controller:** _**"JZR101, read back correct, Information Alpha current, report ready for push and start."**_
 
 When the aircraft has reported ready for push and start they will be transferred to the GMC Controller, and it is to be assumed by the GMC Controller that the pilot has a **correct clearance and is squawking his assigned transpoder code.** 
 
@@ -183,13 +183,13 @@ Once **Kuwait Delivery (DEL)** has received confirmation from the TWR controller
 
 ***VFR Circuit Clearance Example***
 
-> **DEL Controller:** _**"9K-VFR, cleared right hand circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
+> **DEL Controller:** _**"9K-VFR, cleared left hand circuits, RWY34, not above altitude 1000ft, VFR, squawk 7001"**_
 
 The DEL Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DEL Controller:** _**"9K-VFR, Negative. Cleared right hand visual circuits, RWY33R, not above altitude 1000ft, VFR, squawk 7001"**_
+> **DEL Controller:** _**"9K-VFR, Negative. Cleared left hand visual circuits, RWY34, not above altitude 1000ft, VFR, squawk 7001"**_
 
 !!!node "Be Paitent and Assist"
     If you are required to challenge a pilot for a correct readback, read it back clearly and slowly to ensure the pilot has opportunity to understand the information provided
@@ -213,13 +213,13 @@ For pilots filing VFR Flight Plans (FPLs) to leave the **Kuwait Control Zone (CT
 
 ***VFR Zone Exit Clearance Example***
 
-> **DEL Controller:** _**"9K-VFR, You are cleared to exit the Control Zone to the East, RWY 15L, not above altitude 1000ft VFR, Squawk 7001"**_
+> **DEL Controller:** _**"9K-VFR, cleared to exit the Control Zone to the East, RWY 16, not above altitude 1000ft VFR, Squawk 7001"**_
 
 The DEL Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DEL Controller:** _**"9K-VFR, Negative. You are cleared to exit the Control Zone to the East, RWY15L, not above altitude 1000ft VFR, Squawk 7001"**_
+> **DEL Controller:** _**"9K-VFR, Negative. Cleared to exit the Control Zone to the East, RWY16, not above altitude 1000ft VFR, Squawk 7001"**_
 
 > **DEL Controller:** _**"9-FR, Read Back is correct, Information Alpha is current."**_
 
@@ -251,7 +251,7 @@ When issuing a zone exit clearance, you must instruct the traffic to exit the co
 
 ***VFR Zone Exit Clearance with VRP***
 
-> **DEL Controller:** _**"9K-LPF, You are cleared to exit the Control Zone to the East,RWY 15L, via the Qurain Shopping Area VRP, not above altitude 1000ft VFR, Squawk 7001"**_
+> **DEL Controller:** _**"9K-LPF, cleared to exit the Control Zone to the East, RWY 16, via the Qurain Shopping Area VRP, not above altitude 1000ft VFR, Squawk 7001"**_
 
 
 !!! note "VRPs"
