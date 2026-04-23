@@ -94,7 +94,17 @@ The Approach Controller shall not:
 
 ---
 
-## 8.9 Key Principle
+## 8.9 Holding Speed and Timing (Typical)
+
+| Level        | Max Speed | Leg Time |
+|-------------|----------|----------|
+| ≤ FL140     | 230 KT   | 1 min    |
+| FL140–FL200 | 240 KT   | 1 min    |
+| > FL200     | 265 KT   | 1.5 min  |
+
+---
+
+## 8.10 Key Principle
 
 Holding is a traffic management tool.
 
