@@ -1,180 +1,179 @@
 # 5.4 Special Coordination
 
-Special coordination covers non-standard, priority, or abnormal situations requiring enhanced communication between units.
+## 5.4.1 General
+
+Special coordination applies to non-standard, priority, or abnormal situations requiring enhanced communication between controllers.
+
+The Tower Controller shall apply special coordination when standard procedures are insufficient to ensure safe and efficient operations.
 
 ---
 
-## 5.4.1 General Principles
+## 5.4.2 Principles of Special Coordination
 
-Special coordination shall be applied when standard procedures are insufficient to ensure safety or efficiency.
+The Tower Controller shall:
 
-Controllers must:
+- Prioritise safety above all other considerations  
+- Communicate intentions clearly and unambiguously  
+- Confirm all critical information  
+- Coordinate early and explicitly  
 
-– Prioritise safety above all else  
-– Clearly communicate intentions  
-– Confirm all critical information  
-– Coordinate early and explicitly  
+All actions shall be deliberate and controlled to maintain situational awareness.
 
 ---
 
-## 5.4.2 Priority Aircraft
+## 5.4.3 Priority Aircraft
 
 Priority shall be given to:
 
-– Aircraft declaring an emergency (MAYDAY / PAN PAN)  
-– Aircraft with medical emergencies onboard  
-– Aircraft with low fuel or operational urgency  
-– Aircraft conducting security or military operations  
+- Aircraft declaring an emergency (MAYDAY / PAN PAN)  
+- Aircraft with medical emergencies onboard  
+- Aircraft with low fuel or operational urgency  
+- Aircraft conducting security or military operations  
 
-The Tower controller must:
+The Tower Controller shall:
 
-– Provide immediate handling priority  
-– Expedite clearances and instructions  
-– Inform and coordinate with all relevant units  
+- Provide immediate handling priority  
+- Expedite clearances and instructions  
+- Coordinate with all relevant units  
 
-Example:
+**Example:**
 
-```text
-GFA789, priority landing approved, runway 27, wind 270 degrees 8 knots, cleared to land.
-```
+    GFA789, priority landing approved, runway 27, wind 270 degrees 8 knots, cleared to land.
 
 ---
 
-## 5.4.3 Emergency Coordination
+## 5.4.4 Emergency Coordination
 
-In an emergency situation, the controller must:
+In an emergency situation, the Tower Controller shall:
 
-– Acknowledge the emergency  
-– Obtain essential information (nature, intentions, fuel, souls on board if required)  
-– Coordinate with Approach and other units  
-– Ensure the runway is available  
+- Acknowledge the emergency  
+- Obtain essential information (nature, intentions, fuel, persons on board if required)  
+- Ensure the runway is available  
+- Coordinate with Approach and relevant units  
 
-Additional actions:
+The Tower Controller shall:
 
-– Suspend normal operations if required  
-– Keep communications concise and clear  
-– Monitor the aircraft continuously  
+- Suspend normal operations if required  
+- Keep communication concise and clear  
+- Monitor the aircraft continuously  
 
-Example:
+**Example:**
 
-```text
-GFA789, roger MAYDAY, runway 27, cleared to land, wind 270 degrees 8 knots.
-```
+    GFA789, roger MAYDAY, runway 27, cleared to land, wind 270 degrees 8 knots.
 
 ---
 
-## 5.4.4 Opposite Direction Operations
+## 5.4.5 Opposite Direction Operations
 
-Opposite direction operations may be used when:
+Opposite direction operations shall only be conducted when safe and operationally necessary.
 
-– Required for operational reasons  
-– Wind conditions favour an alternative runway direction  
-– Traffic permits safe execution  
+The Tower Controller shall:
 
-The controller must:
+- Ensure no conflicting traffic exists  
+- Coordinate with Approach where applicable  
+- Inform all affected aircraft clearly  
 
-– Ensure no conflicting traffic exists  
-– Coordinate with Approach where applicable  
-– Clearly inform all affected aircraft  
+The Tower Controller shall not conduct opposite direction operations if:
 
-Example:
+- Traffic complexity creates risk  
+- Situational awareness cannot be maintained  
 
-```text
-GFA123, runway 09, cleared for takeoff, opposite direction traffic in operation.
-```
+**Example:**
 
----
-
-## 5.4.5 Runway Closure and Restrictions
-
-If a runway becomes unavailable:
-
-– Immediately suspend all clearances  
-– Inform all aircraft on frequency  
-– Coordinate with Approach and adjacent units  
-
-The controller must:
-
-– Issue alternative instructions  
-– Re-sequence traffic as required  
-– Provide delay or diversion information if necessary  
-
-Example:
-
-```text
-All stations, runway 27 closed, standby for further instructions.
-```
+    GFA123, runway 09, cleared for takeoff, opposite direction traffic in operation.
 
 ---
 
-## 5.4.6 Low Visibility Operations (LVP)
+## 5.4.6 Runway Closure and Restrictions
 
-During reduced visibility conditions, controllers must:
+If a runway becomes unavailable, the Tower Controller shall:
 
-– Increase spacing between aircraft  
-– Protect critical areas (e.g. ILS sensitive areas)  
-– Ensure strict adherence to procedures  
+- Immediately suspend all runway clearances  
+- Inform all aircraft on frequency  
+- Coordinate with Approach and adjacent units  
 
-Additional considerations:
+The Tower Controller shall:
 
-– Minimise runway occupancy time  
-– Avoid conditional clearances where possible  
-– Maintain precise phraseology  
+- Issue alternative instructions  
+- Re-sequence traffic as required  
+- Provide delay or diversion information where necessary  
 
----
+**Example:**
 
-## 5.4.7 Multiple Go-Around Situations
-
-When multiple go-arounds occur:
-
-– Re-establish sequencing immediately  
-– Coordinate with Approach  
-– Avoid compounding conflicts  
-
-The controller must:
-
-– Maintain awareness of all aircraft positions  
-– Issue clear and simple instructions  
-– Prioritise stabilising the situation  
+    All stations, runway 27 closed, standby for further instructions.
 
 ---
 
-## 5.4.8 Non-Routine Traffic
+## 5.4.7 Low Visibility Operations (LVP)
+
+During reduced visibility conditions, the Tower Controller shall:
+
+- Increase spacing between aircraft  
+- Protect critical areas (e.g. ILS sensitive areas)  
+- Ensure strict adherence to procedures  
+
+The Tower Controller shall:
+
+- Minimise runway occupancy time  
+- Avoid conditional clearances  
+- Maintain precise and unambiguous phraseology  
+
+---
+
+## 5.4.8 Multiple Go-Around Situations
+
+When multiple go-arounds occur, the Tower Controller shall:
+
+- Re-establish sequencing immediately  
+- Coordinate with Approach  
+- Simplify traffic where required  
+
+The Tower Controller shall:
+
+- Maintain awareness of all aircraft positions  
+- Issue clear and simple instructions  
+- Prioritise stabilising the situation  
+
+---
+
+## 5.4.9 Non-Routine Traffic
 
 Non-routine traffic includes:
 
-– VFR transits through controlled airspace  
-– Training flights and circuits  
-– Helicopter operations  
-– Military or special flights  
+- VFR transits through controlled airspace  
+- Training flights and circuit operations  
+- Helicopter operations  
+- Military or special flights  
 
-The controller must:
+The Tower Controller shall:
 
-– Integrate traffic safely with IFR operations  
-– Apply appropriate separation  
-– Provide clear instructions tailored to aircraft type  
+- Integrate such traffic safely with IFR operations  
+- Apply appropriate separation  
+- Issue clear instructions appropriate to aircraft type  
 
 ---
 
-## 5.4.9 Key Principles
+## 5.4.10 Key Principle
 
-Special coordination requires:
+Special coordination shall be:
 
-– Early recognition of non-standard situations  
-– Clear and concise communication  
-– Strong situational awareness  
-– Decisive and timely action  
+- Early  
+- Clear  
+- Confirmed  
+- Controlled  
 
-Controllers must:
+The Tower Controller shall:
 
-– Avoid ambiguity  
-– Confirm coordination outcomes  
-– Adapt to changing situations  
-– Maintain control of the overall traffic picture  
+- Avoid ambiguity  
+- Confirm coordination outcomes  
+- Adapt to changing situations  
+- Maintain overall situational awareness  
 
 Failure to apply effective special coordination may result in:
 
-– Loss of separation  
-– Increased workload  
-– Traffic inefficiency  
-– Reduced safety margins  
+- Loss of separation  
+- Increased workload  
+- Traffic inefficiency  
+- Reduced safety margins  
+
+---
