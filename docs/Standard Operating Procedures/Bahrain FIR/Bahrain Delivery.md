@@ -43,13 +43,13 @@ An **IFR Clearance** should have the following information in this order:
 
 ***IFR Departure Clearance Example***
 
-> **DLV Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 NALPO, after departure fly heading 345 degrees, initial climb 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, cleared to Dubai via N697 SODAK P559 NALPO, after departure runway 30R, fly heading 345 degrees, initial climb 4000ft, squawk 4212"**_
 
 The DLV Controller **must** obtain a full and correct read back of the departure clearance. If they do not, then the pilot must be challenged to read back the full and correct departure clearance. 
 
 ***Challenge Example***
 
-> **DLV Controller:** _**"GFA178, Negative. Cleared to Dubai via N697 SODAK P559 NALPO, after departure fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
+> **DLV Controller:** _**"GFA178, Negative. Cleared to Dubai via N697 SODAK P559 NALPO, after departure runway 30R, fly heading 345 degrees, inital climb altitude 4000ft, squawk 4212"**_
 
 !!!node "Be patient and Assist"
     If you are required to challenge a pilot for a correct readback, repeat it back clearly and slowly to ensure the pilot has opportunity to understand the information provided. Be mindful that there are always new joiners to the VATSIM network, so assisting them is key!
@@ -72,9 +72,9 @@ To prevent the aircraft after departure immediately turning for the BHR VOR they
 
 | **Valid  FIR Exit Routings** |        **Notes**       |
 |:----------------------------:|:----------------------:|
-|          N697 TORBO/SODAK    |                        |
+|       N697 TORBO/SODAK       |                        |
 |          B457 NARMI          | Outbounds to OEJD FIR. |
-|          N318 LUBET          | Outbounds to OTDF FIR. |
+|    DCT ASTAD (AIRWAY N318)   | Outbounds to OTDF FIR. |
 |          M444 DAVUS          |                        |
 |          A453 KUMBO          |                        |
 |          N572 DASUT          |                        |
@@ -83,15 +83,15 @@ To prevent the aircraft after departure immediately turning for the BHR VOR they
 
 ### 2.1.2 Datalink Clearances (DCL)
 Bahrain offers the ability for pilots to request and receive their **departure clearance via datalink (DCL).** This helps reduce frequency congestion and reduces the workload of the DLV Controller. This service can only be provided to pilot who's aircraft has sufficient systems installed such as ACARS to send and receive text messages from a controlling unit. 
-It is a requirement of the DLV Controller to ensure datalink is available at all times.
+It is a requirement of the DLV Controller to ensure datalink is available at all times through the use of Hoppie ACARS.
 
 ### 2.1.3 Incorrect Filed Flight Plans
-It is the responsibility of the DLV Controller to ensure flight plans are correctly filed and using valid routings in conjunction with the RouteChecker. 
-If routes are not filed correctly you must inform the pilot that they have filed an incorrect flight plan by **private message.** 
+It is the responsibility of the DLV Controller to ensure flight plans are correctly filed and using valid routings in conjunction with the RouteChecker plugin installed on Euroscope. 
+If routes are not filed correctly you must inform the pilot that they have filed an incorrect flight plan by **private message.**  
 
 If a pilot calls on frequency before you have the chance to send the **private message** please advise the pilot on frequency to expect a route change via **private message**.
 
-You can use tools such as SimBrief to provide pilots with valid routings. **** actively ensures routes are updated in SimBrief for pilots to use. 
+You can use tools such as SimBrief to provide pilots with valid routings. The subdivision actively ensures routes are updated in SimBrief for pilots to use. 
 
 ### 2.1.4 Filed Flight Levels 
 **Bahrain Delivery (DLV)** must ensure pilots are filing correct flight levels in accordance with their filed routings. If pilots have incorrectly filed flight levels in their flight plan you must inform the pilot to refile their flight plan via **private message**. 
@@ -116,7 +116,7 @@ When A-CDM procedures are active (typically during busy events), pilots must rep
 
 The TOBT system allows aircraft to push back, taxi to the runway holding point and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is cancelled, and a new TOBT is assigned.
 
-Please note TOBTs are only issued during certain events, this will be outlined via Khaleej vACC Staff if TOBT procedures are to be implemented for that particular event. You are required to tell the appropriate member of staff if you're not familiar with A-CDM procedures. 
+Please note TOBTs are only issued during certain events, this will be outlined via Khaleej vACC Events Staff if TOBT procedures are to be implemented for that particular event. You are required to tell the appropriate member of staff if you're not familiar with A-CDM procedures. 
 
 ### 2.2 Departure Procedures
 Bahrain does not have any published Standard Instrument Departures (SIDs). Instead, Delivery will assign an initial heading to departing aircraft. 
@@ -138,7 +138,7 @@ The Aircraft will then be provided radar vectors from Bahrain Approach after dep
 - VFR Flights are not permitted when the ceiling is less than 1500ft or when the ground visibility is less than 5KM. 
 - **Bahrain Tower (TWR)** and **Bahrain Approach (APP)** both hold the authority to delay VFR flights into either **Class D Control Zone** or the **Class C Terminal Manevuering Area** if traffic levels permit.
 - All VFR departures shall be assigned a discrete SSR code so that positive identification is established. 
-- VFR aircraft are assigned discrete, or specific, four-digit squawk codes to allow for positive identification on radar, especially when flying through controlled airspace.
+- VFR aircraft are assigned discrete, or specific, squawk codes to allow for positive identification on radar, especially when flying through controlled airspace.
 
 #### 2.3.1 VFR Departures
 VFR Departures VFR Flights planning to depart **Bahrain International Airport (OBBI)** to leave the **Control Zone (CTR)** must first have prior approval from the APP Controller to enter the **Terminal Maneuvering Area (TMA)**. There are no published VFR routes in the Bahrain CTR. Aircraft shall therefore be cleared on track to their destination.
