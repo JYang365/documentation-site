@@ -1,48 +1,107 @@
-# Holding Procedures
+# 8. Holding Procedures
 
-Holding is used to delay aircraft when sequencing or capacity constraints require it.
+## 8.1 General
 
----
+Holding is used to delay aircraft when traffic demand exceeds available capacity or sequencing cannot be achieved immediately.
 
-## Purpose
-
-- Manage excess traffic
-- Maintain safe separation
-- Provide time for sequencing
+The Approach Controller shall use holding to maintain separation and manage traffic flow safely.
 
 ---
 
-## Standard Holding Pattern
+## 8.2 Purpose
 
-- Racetrack pattern
-- Defined by inbound course and fix
+The Approach Controller shall use holding to:
 
----
-
-## Entries
-
-- Direct
-- Parallel
-- Offset (teardrop)
+- Manage excess traffic demand  
+- Maintain safe separation  
+- Provide time to establish sequencing  
+- Regulate arrival flow  
 
 ---
 
-## Controller Responsibilities
+## 8.3 Standard Holding Pattern
 
-- Assign holding fix and level
-- Provide expected delay
-- Manage stack levels
+A standard holding pattern consists of:
 
----
+- A racetrack pattern  
+- A defined holding fix  
+- An inbound track  
 
-## Exit Strategy
-
-Aircraft shall be released:
-- In sequence
-- With sufficient spacing
+The Approach Controller shall ensure aircraft enter and maintain the correct holding pattern.
 
 ---
 
-## Key Principle
+## 8.4 Holding Entries
 
-> Holding is a last resort — sequencing should be preferred where possible.
+Aircraft may enter the hold using one of the following:
+
+| Entry Type  | Description |
+|------------|------------|
+| Direct     | Straight entry into the hold |
+| Parallel   | Entry via outbound leg before turning inbound |
+| Offset (Teardrop) | Entry via angled outbound track |
+
+The Approach Controller shall:
+
+- Ensure aircraft are correctly positioned for entry  
+- Monitor entry and correct if required  
+
+---
+
+## 8.5 Controller Responsibilities
+
+The Approach Controller shall:
+
+- Assign holding fix and level  
+- Specify inbound track where required  
+- Provide expected delay (EAT)  
+- Manage vertical separation within the stack  
+- Monitor aircraft within the hold  
+
+---
+
+## 8.6 Holding Stack Management
+
+The Approach Controller shall:
+
+- Assign different levels to aircraft in the hold  
+- Maintain vertical separation  
+- Sequence aircraft for exit  
+
+Stacking shall be orderly and clearly structured.
+
+---
+
+## 8.7 Exit from Holding
+
+The Approach Controller shall:
+
+- Plan exit sequence in advance  
+- Issue descent and vectoring instructions  
+- Integrate aircraft into the arrival sequence  
+
+Aircraft shall not be released from holding unless sequencing and spacing can be maintained.
+
+---
+
+## 8.8 Limitations
+
+The Approach Controller shall not:
+
+- Allow holding to become disorganised  
+- Delay aircraft without clear sequencing intent  
+- Release aircraft without ensuring separation  
+
+---
+
+## 8.9 Key Principle
+
+Holding is a traffic management tool.
+
+The Approach Controller shall:
+
+- Use holding proactively  
+- Maintain control of the sequence  
+- Ensure safe and orderly release  
+
+Effective holding supports stable and efficient operations.
